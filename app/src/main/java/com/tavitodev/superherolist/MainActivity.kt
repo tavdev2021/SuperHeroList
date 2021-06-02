@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         SuperHero("Flash", "Jay Garrick", "DC", "https://cursokotlin.com/wp-content/uploads/2017/07/flash.png"),
         SuperHero("Green Lantern", "Alan Scott", "DC", "https://cursokotlin.com/wp-content/uploads/2017/07/green-lantern.jpg"),
         SuperHero("Wonder Woman", "Princess Diana", "DC", "https://cursokotlin.com/wp-content/uploads/2017/07/wonder_woman.jpg"),
+        SuperHero("Iron Man","Tony Stark","Marvel","https://www.entertainmentearth.com/news/wp-content/uploads/2014/10/iron-man-wrap.jpg"),
         SuperHero("Super Rana", "La Rana Rene", "Mi Creación", "https://yt3.ggpht.com/ytc/AAUvwnhDg-yrss-9kM2NgZj2r6lP1CQjUJJv7eagg08l=s900-c-k-c0x00ffffff-no-rj")
     )
 
